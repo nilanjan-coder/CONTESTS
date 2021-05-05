@@ -1,10 +1,10 @@
 # CONTESTS
 
-##### PLatform:
+##### Platform:
 [Codeforces](https://codeforces.com/)
 
 ##### Language:
 [C++](http://www.cplusplus.org/)
 
 ##### Description:
-My solutions to contest problems, from the above mentioned platforms, with upsolving.
+My solutions to contest problems with upsolving.
